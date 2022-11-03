@@ -16,3 +16,17 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+.pagination{
+    margin-left:200px; 
+    margin-bottom: 50px;
+
+}
+.pagination button{
+    margin-right: 30px;
+}
+.pagination .selected{
+    background-color: goldenrod;
+    border: gold;
+    font-weight: bold;
+    padding: 10px;
+}
